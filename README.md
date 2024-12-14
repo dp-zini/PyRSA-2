@@ -37,7 +37,7 @@ pip install FreeSimpleGUI
 ```
 ## Usage
 ``` python
-$ python pyrsa.py
+$ python pyrsa2.py
 ```
 From the GUI:
 - Select encryption or decryption
