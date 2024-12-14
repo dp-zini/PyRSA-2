@@ -21,7 +21,6 @@ From the GUI:
 - Set your host port and start listening
 - Set target IP and port and connect
 - Send messages back and forth through the power of the internet!
-- Copy the result, save the keys or clear the input box and do it all over again!# PyRSA
 
 ## Contributions
 Feel free buddy, this is basically just a hobby for me, so take the code, edit it, use it in your own projects, do whatever! Just give proper attribution.
