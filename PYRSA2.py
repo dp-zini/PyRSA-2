@@ -1,4 +1,4 @@
-import socket, threading, PySimpleGUI as sg, base64
+import socket, threading, FreeSimpleGUI as sg, base64
 from os import path
 from cryptography.hazmat.primitives.asymmetric import rsa, padding
 from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
